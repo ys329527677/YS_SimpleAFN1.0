@@ -1,10 +1,9 @@
 //
-//  AppDelegate.m
+//  ViewController.m
 //  AFN
 //
-//  Created by cherish on 15/8/31.
-//  Copyright (c) 2015年 Shenzhen Cunhou Industrial Co.Ltd. All rights reserved.
-//
+//  Created by 杨帅 on 15/8/31.
+//  Copyright (c) 2015年 ys. All rights reserved.
 
 #import "AppDelegate.h"
 

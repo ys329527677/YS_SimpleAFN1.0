@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AFN.xcodeproj">
+      location = "self:/Users/YS/Desktop/AFN/YS_afnDemo.xcodeproj">
    </FileRef>
 </Workspace>
